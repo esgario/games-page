@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "deploy": "gh-pages -d dist -b deploy",
+    "deploy": "gh-pages -d dist -b main",
     "start": "http-server dist"
   },
   "devDependencies": {
